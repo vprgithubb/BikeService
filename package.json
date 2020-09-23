@@ -1,0 +1,24 @@
+{
+  "name": "bikeservice",
+  "version": "1.0.0",
+  "description": "bike service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vprgithubb/project1.git"
+  },
+  "keywords": [
+    "Praveen",
+    "code",
+    "MERN"
+  ],
+  "author": "PraveenRaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vprgithubb/project1/issues"
+  },
+  "homepage": "https://github.com/vprgithubb/project1#readme"
+}
